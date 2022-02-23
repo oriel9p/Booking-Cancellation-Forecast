@@ -1,12 +1,11 @@
-# Hotel Cancellation Forecast - Project
-The accomodation industry is a 4.1 Trillion Dollar industry in 2021.
-In today's fast-paced world, consumers are becoming more flexible with their stays, "Free Cancellation" offers are helping large booking websites like Booking.com and Hotels.com stay competitive by allowing consumers said flexibility.
-However, these offers bring an old-new problem to the table - booking cancellations.
-In this project we aim to allow accurate forecasting of booking cancellations in order to aid hotels and booking websites correctly anticipate hotel cancellations and act accordingly to prevent loss and maximize capacity.
+# Predicting Hotel Booking Cancellations Using ML
+Msc. Data Science, Department of IEM, BGU.
+### Abstract
+In the one and a half trillion dollars hotel industry, demand management is a crucial factor to revenue.  Hoteliers’ ability to make accurate demand forecasting is greatly affected by booking cancellations, which often result in vacancy, inaccurate room pricing, false cancellation policy implementation resulting in further reduction of the number of bookings and revenue. Accurate demand forecasting also assures hoteliers and reservation giants (such as Booking and Trivago) correct use of over-booking tactics, incentive-based programs, room deposits and cancellation policies. In this project we use data collected for over 119,000 bookings, combined with interpretable machine learning based classifiers to provide a tool which will be able to accurately predict booking cancellations in advance. The use of interpretable models (specifically decision tree-based models) will provide hotel management with important insights, as well as the ability to base management level decision on understandable cancellation and demand patterns. In this project, we demonstrate a Random Forest Classifier with 88% Recall score.
+
 ##### By Oriel Perets & Dafna Meron
 
-### Project setup
-#### Importing dependecies:
+#### Dependecies:
 1. Core dependecies
     * Numpy
     * Pandas
